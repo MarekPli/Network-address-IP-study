@@ -15,15 +15,14 @@ Project is created with:
 * text mode only
 
 ## How to use
-### Windows or MacOs
 Either
-- simply run the program
+- simply run the program without any parameters
 
-or
+or one parameter
 
 - run the program with address in 10.0.0.0 format
 
-or
+or two parameters
 
 - run the program with the address and mask, i.e. 10.0.0.0 8
 
@@ -32,7 +31,7 @@ Thanks to my Network teachers
 
 Knowledge obtained especially from youtube movie:
 
-[@Adresowanie IP v4. Budowa adresów, obliczenia, podział na podsieci]https://www.youtube.com/watch?v=t3IceGlTjig
+[@Adresowanie IP v4. Budowa adresów, obliczenia, podział na podsieci](https://www.youtube.com/watch?v=t3IceGlTjig)
 
 
 
