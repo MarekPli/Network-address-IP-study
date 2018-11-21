@@ -18,9 +18,13 @@ Project is created with:
 ### Windows or MacOs
 Either
 - simply run the program
+
 or
+
 - run the program with address in 10.0.0.0 format
+
 or
+
 - run the program with the address and mask, i.e. 10.0.0.0 8
 
 ## Sources
